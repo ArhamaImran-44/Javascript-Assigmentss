@@ -1,17 +1,40 @@
-//   Question No. 1
-// alert(" Hello, Welcome to my website!");
+// Question no .1
+// var  studentName  = " Arhama"
+//    alert(studentName);
+//    document.write(studentName)
+//    console.log(studentName)
 
 
-//   Question No. 2
-// alert("Error! Please enter a valid password")
+// Question no .2
+// var  studentName  = " Arhama"
+//    alert(studentName);
+//    document.write(studentName)
+//    console.log(studentName)
 
-//   Question No. 3
-// alert("Welcome to JS Land... \n  Happy Coding !")
+// Question no .3
+// a
+    // var message;         
+    
+    // b
+    // message = "Hello World";   
 
-//   Question No. 4
-// alert("Welcome to Js Land...")
-// alert("Happy Coding!")
+    // c
+    // alert(message); 
+    
+    // Question no .4
+    // alert("Jhone Done")
+    // alert("15  years old")
+    // alert("Certified Mobile Application Development")
+
+      // Question no .5
+
+    // var text = "PIZZA\nPIZZ\nPIZ\nPI\nP";
+    // alert(text);
 
 
-//   Question No. 4
-// console.log("Hello...I can run JS through my web browser's console")
+
+    // qUESTION Node. 6
+
+// var email = "arhamai829@example.com";
+
+// alert("My email address is " + email);
