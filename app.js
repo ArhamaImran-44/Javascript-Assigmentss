@@ -33,8 +33,23 @@
 
 
 
-    // qUESTION Node. 6
+    // qUESTION No. 6
 
 // var email = "arhamai829@example.com";
 
 // alert("My email address is " + email);
+
+//  Question No.7
+// var book = "A smarter way to learn JavaScript";
+// alert("I am trying to learn from the Book " + book);
+
+
+// Question No.8
+//  document.write("Yah! I can write HTML content through JavaScript");
+
+
+
+// Question No.9
+// let ass = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬” "
+// alert(ass);
+
