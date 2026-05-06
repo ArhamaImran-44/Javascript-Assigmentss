@@ -19,7 +19,7 @@
 
 //question no 6
 
-// let mixedArray = ["Abeer", 25, true, null, "Student"];
+// let mixedArray = ["Arhama", 25, true, null, "Student"];
 
 //question 7
 
@@ -32,7 +32,7 @@
 
 //question no 8
 
-// let students = ["Ali", "Sara", "Ahmed"];
+// let students = ["Arhama", "Sara", "Alina"];
 // let scores = [400, 350, 450];
 // let totalMarks = 500;
 
